@@ -19,29 +19,29 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['919605571339']
-global.premium = ['919605571339']
-global.ownernomer = '919605571339'
-global.ownername = 'Patch Ser'
-global.botname = 'Patch-bot'
-global.footer = '©Patch-botInc.'
-global.ig = 'https://github.com/patch777'
+global.owner = ['918075168486']
+global.premium = ['918075168486']
+global.ownernomer = '918075168486'
+global.ownername = 'Shanib Ser'
+global.botname = 'Shanib-bot'
+global.footer = '©shanib-botInc.'
+global.ig = 'https://github.com/SH4N1B-S3R'
 global.region = 'India, South India, Kerala'
-global.sc = 'https://github.com/patch777'
-global.myweb = 'https://youtu.be/hYWltm6BgEw'
-global.packname = 'Patch'
-global.author = '🐦Star Boy Patch'
+global.sc = 'https://github.com/SH4N1B-S3R'
+global.myweb = 'https://youtube.com/channel/UChWmWzrUKagfJLpCZ4JnkbQ'
+global.packname = 'SH4N!B'
+global.author = '🐦Star Boy Shanib'
 global.sessionName = 'session'
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.prefa = ['','!','.','🐦','🐤','🌝']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
-    admin: 'This Feature Is Only For Patch',
+    admin: 'This Feature Is Only For Shanib',
     botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Patch!',
-    group: 'Feature Used Only For Patch!',
-    private: 'Features Used Only For Patch!',
-    bot: 'This Feature Is Only For Patch',
+    owner: 'This Feature Is Only For Shanib!',
+    group: 'Feature Used Only For Shanib!',
+    private: 'Features Used Only For Shanib!',
+    bot: 'This Feature Is Only For Shanib',
     wait: 'Wait A minute...',
     error: 'Error! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Theern Myr',
